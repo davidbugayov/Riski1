@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Riski</string>
+    <string name="header_input">Допустимые уровни угроз</string>
+    <string name="header_load">Необходимо выбрать файл</string>
+    <string-array name="field_name">
+        <item>Кража имущества/оборудования из лабораторий студентами</item>
+        <item>Проникновение в служебные помещения персонала, не имеющего доступ</item>
+        <item>Утечка персональных данных сотрудников и студентов, служебных документов кафедры</item>
+        <item>Нарушение учебного процесса вследствие потери доступа к требуемым ресурсам локальной сети кафедры (напр., samos)</item>
+        <item>Возникновение пожара</item>
+    </string-array>
+    <string name="next_step">Следующий шажочек</string>
+    <string name="decide">Расчитать</string>
+    <string name="load">Загрузить</string>
+    <string name="link_google">https://docs.google.com/spreadsheets/d/159vsvVx85ZhpcdbW6NhZgMY1ONC3Ev7RjTpwK5sAf1k/edit?usp=sharing</string>
+    <string name="norm_link_google">https://spreadsheets.google.com/tq?key=159vsvVx85ZhpcdbW6NhZgMY1ONC3Ev7RjTpwK5sAf1k</string>
+</resources>
